@@ -1,0 +1,1 @@
+open("log.txt", )
