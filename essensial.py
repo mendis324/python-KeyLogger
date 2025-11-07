@@ -8,3 +8,6 @@
 # f = open("log.txt", 'r')
 # fileData = f.read()
 # print(fileData)
+
+#listeners - listen to keystrokes
+#use of the 'with' keyword - release memory/resousers automatically 

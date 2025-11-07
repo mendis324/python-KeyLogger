@@ -1,3 +1,2 @@
-f = open("log.txt", 'w')
-f.write("god\n")
-f.close()
+with open("log.txt", 'a') as f:
+    f.write("global\n")

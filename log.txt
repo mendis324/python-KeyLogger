@@ -1,3 +1,1 @@
-hellohellohello
-godgodgod
-god
+global
